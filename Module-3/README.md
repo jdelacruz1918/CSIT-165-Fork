@@ -4,7 +4,7 @@ Adding line on top as directions indicate
 
 In Module 3 exercise #17 you will change the block-quote below:
 
-`This is a line you will change!`
+`Are we going to kick ass or chew gum? I aint got no gum in my pocket!`
 
 Lunch Today:
 *  BBP Pork
